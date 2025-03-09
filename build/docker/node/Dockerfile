@@ -4,4 +4,3 @@ RUN npm i -g npm
 
 WORKDIR /app/my-app
 
-RUN npx next
